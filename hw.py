@@ -2,13 +2,13 @@
 import random
 
 
-Print("************************")
-Print("*                      *")
-Print("*   The Hidden Words   *")
-Print("*       From the       *")
-Print("*   Arabic & Persian   *")
-Print("*                      *")
-Print("************************")
+print("************************")
+print("*                      *")
+print("*   The Hidden Words   *")
+print("*       From the       *")
+print("*   Arabic & Persian   *")
+print("*                      *")
+print("************************")
 
 
 
